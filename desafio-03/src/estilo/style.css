@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main section h1 {
+    margin: 16px;
+    text-decoration: underline;
+    font-size: 32px;
+}
+
+main section p {
+    margin: 16px 16px 40px 16px;
+    padding: 20px;
+}
+
+main section .primeiro-paragrafo {
+    background-color: #F5F5F5;
+}
+
+main section .segundo-paragrafo {
+    background-color: #F0CCE2;
+}
+
+.rodape {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+}
+
+.rodape p a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.rodape p a:hover {
+    text-decoration: underline;
+}
