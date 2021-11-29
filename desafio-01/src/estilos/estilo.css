@@ -8,21 +8,21 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+.cabecalho h1 {
     text-decoration: underline;
     margin: 10px;
     font-size: 2em;
 }
 
-.conteudo {
+.principal .conteudo {
     margin: 30px;
 }
 
-.conteudo .item {
+.principal .conteudo .itens .item {
     margin-bottom: 10px;
 }
 
-.total {
+.principal .total {
     background-color: #000;
     color: #fff;
     padding: 5px;
